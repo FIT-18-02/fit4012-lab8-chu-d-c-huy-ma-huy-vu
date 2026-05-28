@@ -1,5 +1,5 @@
 # ============================================================
-# CHAY TREN MAY SENDER (Nguyen Hoang)
+# CHAY TREN MAY SENDER (Chu Đức Huy)
 # Dieu kien: Receiver da chay run_receiver.ps1 truoc
 # Vi du    : .\run_sender.ps1 -ReceiverIP 192.168.1.10
 # ============================================================
@@ -10,7 +10,7 @@ param(
 
     [int]$DataPort = 6000,
     [int]$KeyPort  = 8080,
-    [string]$Message = "Xin chao FIT4012! Day la ban tin Lab 8: DES-CBC + SHA-256 + RSA-OAEP. Dang Quang Tien & Nguyen Hoang."
+    [string]$Message = "Xin chao FIT4012! Day la ban tin Lab 8: DES-CBC + SHA-256 + RSA-OAEP. Ma Huy Vũ & Chu Đức Huy."
 )
 
 Set-Location $PSScriptRoot

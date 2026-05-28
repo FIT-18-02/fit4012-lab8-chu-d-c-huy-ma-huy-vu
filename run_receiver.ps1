@@ -1,5 +1,5 @@
 # ============================================================
-# CHAY TREN MAY RECEIVER (Dang Quang Tien)
+# CHAY TREN MAY RECEIVER (Ma Huy Vũ)
 # Buoc 1: chay script nay truoc
 # Buoc 2: bao cho Sender biet IP va port key-server
 # ============================================================
